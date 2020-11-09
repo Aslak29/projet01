@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8560e321-e49a-4e53-88c0-6b8957d97d83" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <workItem from="1604583787630" duration="7318000" />
       <workItem from="1604662386326" duration="3709000" />
       <workItem from="1604666408739" duration="2289000" />
-      <workItem from="1604911914706" duration="4078000" />
+      <workItem from="1604911914706" duration="4394000" />
     </task>
     <task id="LOCAL-00001" summary="Test 2">
       <created>1604917438721</created>
@@ -84,22 +84,37 @@
       <option name="project" value="LOCAL" />
       <updated>1604918019379</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test 2.1">
+      <created>1604918489884</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604918489884</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Test 2.2">
+      <created>1604918705750</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604918705750</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test 2.1" />
     <MESSAGE value="Test 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test 2" />
+    <MESSAGE value="Test 2.1" />
+    <MESSAGE value="Test 2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 2.2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1604918018973">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1604918705207">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604918018973" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604918705207" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1604913907411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -116,10 +131,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="582" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604913653671" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604918022448">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604918708784">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604918022448" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604918708784" />
     <state x="790" y="310" key="svn.repositoryBrowser" timestamp="1604913777947">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
