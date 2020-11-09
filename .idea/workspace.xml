@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8560e321-e49a-4e53-88c0-6b8957d97d83" name="Default Changelist" comment="" />
+    <list default="true" id="8560e321-e49a-4e53-88c0-6b8957d97d83" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jsDDPmQSaLt7KHh8cIH8oXmGiu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,6 +34,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -47,7 +55,7 @@
       <workItem from="1604583787630" duration="7318000" />
       <workItem from="1604662386326" duration="3709000" />
       <workItem from="1604666408739" duration="2289000" />
-      <workItem from="1604911914706" duration="1442000" />
+      <workItem from="1604911914706" duration="2833000" />
     </task>
     <servers />
   </component>
@@ -55,9 +63,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1604913907411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604913907411" />
+    <state x="838" y="417" key="Github.ShareDialog" timestamp="1604914151944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604914151944" />
+    <state x="825" y="224" key="Github.UntrackedFilesDialog" timestamp="1604914443609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="825" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604914443609" />
     <state x="582" y="162" key="SettingsEditor" timestamp="1604913653671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="582" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604913653671" />
+    <state x="790" y="310" key="svn.repositoryBrowser" timestamp="1604913777947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="310" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1604913777947" />
   </component>
 </project>
