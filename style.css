@@ -1,0 +1,25 @@
+body{
+    margin: 0 ;
+}
+header {
+    background-color: black;
+    height: 20vh;
+
+}
+aside{
+    background-color: green;
+    height: 60vh;
+    width: 20vw;
+
+}
+section{
+    background-color: crimson;
+    height: 60vh;
+    width: 80vw;
+    margin-left:20vw;
+    margin-top:-60vh;
+}
+footer{
+    background-color: cyan;
+    height: 20vh;
+}
